@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668266417 source:c:\users\vasil\documents\cmf\options pricing\options pricing\architecture.cpp
+
+1668380544 source:c:\users\vasil\documents\cmf\options pricing\options pricing\risks.cpp
+	<iostream>
+	"risks.h"
+
+1668377290 source:c:\users\vasil\documents\cmf\options pricing\options pricing\core_pricing.cpp
+	<iostream>
+	"core_pricing.h"
+
+1668380532 c:\users\vasil\documents\cmf\options pricing\options pricing\core_pricing.h
+	<vector>
+	<cmath>
+
+1668381079 source:c:\users\vasil\documents\cmf\options pricing\options pricing\main.cpp
+	<iostream>
+	"core_pricing.h"
+	"risks.h"
+
+1668380829 c:\users\vasil\documents\cmf\options pricing\options pricing\risks.h
+	"core_pricing.h"
+
