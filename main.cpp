@@ -1,6 +1,7 @@
 #include <iostream>
 #include "core_pricing.h"
 #include "risks.h"
+#include "architecture.h"
 
 int main()
 {

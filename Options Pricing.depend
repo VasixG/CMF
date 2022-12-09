@@ -13,11 +13,16 @@
 	<vector>
 	<cmath>
 
-1668381079 source:c:\users\vasil\documents\cmf\options pricing\options pricing\main.cpp
+1670546002 source:c:\users\vasil\documents\cmf\options pricing\options pricing\main.cpp
 	<iostream>
 	"core_pricing.h"
 	"risks.h"
+	"architecture.h"
 
 1668380829 c:\users\vasil\documents\cmf\options pricing\options pricing\risks.h
 	"core_pricing.h"
+
+1670546329 c:\users\vasil\documents\cmf\options pricing\options pricing\architecture.h
+	<vector>
+	<string>
 
